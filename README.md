@@ -1,2 +1,5 @@
 # hello-world
-First try.
+
+So, this is the second try to merge a new branch...
+
+Hail world!
